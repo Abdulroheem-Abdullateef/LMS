@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fi9OInwEUz/rNGz0bZTXC/+Mhe5tq/FwIU+0gVsHF1U=",
+  "Hash": "8Xj74iycAdNm1iWWeYkljCJzGuAzx3eONC+RXPSiuII=",
   "Source": "LearningManagementSystem",
   "BasePath": "_content/LearningManagementSystem",
   "Mode": "Default",
@@ -8483,6 +8483,40 @@
       "OriginalItemSpec": "wwwroot\\studentPhotos\\STD771d1b67-a114-45aa-b1ef-c83295295008.png"
     },
     {
+      "Identity": "C:\\Users\\owner\\Desktop\\Abdullateef\\Abdullateef File\\Clone files from GitHub\\LMS\\wwwroot\\studentPhotos\\STD8283f0c2-5d54-446b-b0bc-9e1680a55f8a.jpeg",
+      "SourceId": "LearningManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\Abdullateef\\Abdullateef File\\Clone files from GitHub\\LMS\\wwwroot\\",
+      "BasePath": "_content/LearningManagementSystem",
+      "RelativePath": "studentPhotos/STD8283f0c2-5d54-446b-b0bc-9e1680a55f8a.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\studentPhotos\\STD8283f0c2-5d54-446b-b0bc-9e1680a55f8a.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\Abdullateef\\Abdullateef File\\Clone files from GitHub\\LMS\\wwwroot\\studentPhotos\\STD99ab48fa-db40-4b14-b518-538c4ebc360f.jpeg",
+      "SourceId": "LearningManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\Abdullateef\\Abdullateef File\\Clone files from GitHub\\LMS\\wwwroot\\",
+      "BasePath": "_content/LearningManagementSystem",
+      "RelativePath": "studentPhotos/STD99ab48fa-db40-4b14-b518-538c4ebc360f.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\studentPhotos\\STD99ab48fa-db40-4b14-b518-538c4ebc360f.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\owner\\Desktop\\Abdullateef\\Abdullateef File\\Clone files from GitHub\\LMS\\wwwroot\\studentPhotos\\STDa5d18c56-6165-41f5-b770-38e1fc28d756.jpeg",
       "SourceId": "LearningManagementSystem",
       "SourceType": "Discovered",
@@ -8532,6 +8566,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\studentPhotos\\STDe7a6157e-d9a6-4791-a682-79c8bc99e1c3.png"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\Abdullateef\\Abdullateef File\\Clone files from GitHub\\LMS\\wwwroot\\studentPhotos\\STDf9747c49-3f97-425c-b6cd-621edd68e2e9.jpeg",
+      "SourceId": "LearningManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\Abdullateef\\Abdullateef File\\Clone files from GitHub\\LMS\\wwwroot\\",
+      "BasePath": "_content/LearningManagementSystem",
+      "RelativePath": "studentPhotos/STDf9747c49-3f97-425c-b6cd-621edd68e2e9.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\studentPhotos\\STDf9747c49-3f97-425c-b6cd-621edd68e2e9.jpeg"
     },
     {
       "Identity": "C:\\Users\\owner\\Desktop\\Abdullateef\\Abdullateef File\\Clone files from GitHub\\LMS\\wwwroot\\studentPhotos\\STDfa0a355a-3245-4185-b586-22649c3fe8e8.jpeg",

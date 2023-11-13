@@ -89,11 +89,6 @@ C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\
 C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\LearningManagementSystem.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\LearningManagementSystem.RazorAssemblyInfo.cache
 C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\LearningManagementSystem.RazorAssemblyInfo.cs
-C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\staticwebassets\msbuild.LearningManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\staticwebassets\msbuild.build.LearningManagementSystem.props
-C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LearningManagementSystem.props
-C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LearningManagementSystem.props
-C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\owner\Desktop\Abdullateef\Abdullateef File\Clone files from GitHub\LMS\obj\Debug\net6.0\scopedcss\bundle\LearningManagementSystem.styles.css
